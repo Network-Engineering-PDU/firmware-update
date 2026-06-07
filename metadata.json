@@ -1,7 +1,7 @@
 {
   "firmware_version": "0.2.4",
   "firmware_file": "ttfile.bin",
-  "sha256": "447464ae4c6bf8e5d1d70aa700483952755b924b13a6bbdf2e4a5dd89830878e",
+  "sha256": "82ce0f35c64f801d9bb262e10555c26a33a3db5bccc78c0011196d5732a83dbc",
   "min_compatible_version": "0.2.0",
   "release_notes": "OTA release",
   "published_at": "2026-06-01T12:00:00Z",
