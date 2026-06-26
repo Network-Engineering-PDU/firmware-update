@@ -1,5 +1,5 @@
 {
-  "firmware_version": "0.2.5",
+  "firmware_version": "0.2.6",
   "firmware_file": "ttfile.bin",
   "sha256": "e8e74d52e11f45b454bd1bb060442a953bbc4aff482e8d8936e4aeb45fe95a48",
   "min_compatible_version": "0.2.0",
